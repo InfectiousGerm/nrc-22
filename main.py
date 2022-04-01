@@ -290,7 +290,6 @@ while False:
             pick_cube()
             block = False
     else:
-        detect_ball()
-        
-        
-    
+        detect_ball() 
+
+        # 7/3/2022
